@@ -28,6 +28,13 @@ Aqui estou refazendo as listas de exercícios da disciplina de Programação, re
 │   ├── exer01.c
 │   ├── exer02.c
 │   ├── ...
+│   └── exer10.c
+│
+├──📁 Lista02 - Estruturas de decisão (if, else, switch) e operadores lógicos.
+│   ├── exer01.c
+│   ├── exer02.c
+│   ├── ...
+│   └── exer14.c
 │
 └── 📄 README.md
 ```
