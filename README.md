@@ -1,11 +1,11 @@
 <div align="center">
 
-# 💻 C Exercícios
+#  C Exercícios
 
-### 📚 Repositório de estudos da linguagem C
+###  Repositório de estudos da linguagem C
 
-![GitHub repo size](https://img.shields.io/github/repo-size/SabrynaMoretto/c-exercicios?style=for-the-badge&color=ff69b4)
-![GitHub last commit](https://img.shields.io/github/last-commit/SabrynaMoretto/c-exercicios?style=for-the-badge&color=ff69b4)
+![GitHub repo size](https://img.shields.io/github/repo-size/SabrynaMoretto/c-exercicios?style=for-the-badge&color=f4a261)
+![GitHub last commit](https://img.shields.io/github/last-commit/SabrynaMoretto/c-exercicios?style=for-the-badge&color=f4a261)
 
 </div>
 
